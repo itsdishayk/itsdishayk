@@ -1,5 +1,36 @@
-## Hi there 👋
+# Hi, I'm Disha Mazumder! 👋
 
+<div align="center">
+  BCA Student | Aspiring Web Developer & UI/UX Designer
+</div>
+
+## 🌱 About Me
+Hello! I'm a BCA student from Assam, India, excited to dive into **web development** and **UI/UX design**. Starting my journey with C programming, HTML/CSS, and Figma. 
+
+**What I'm learning right now:**
+- C basics for programming foundation
+- Web fundamentals (HTML/CSS/JS)
+- UI design with Figma
+- Building my first portfolio projects
+
+## 🛠️ Tech Stack (Learning)
+
+## 🛠️ Current Skills (Beginner Level)
+
+## 📂 Projects
+- **Calculator** - First C program [WIP]
+- Personal Portfolio (WIP)
+
+## 📊 Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsdishayk)](https://github.com/itsdishayk)
+
+## 📫 Contact
+-  X Twitter X: https://x.com/eyyitsdisha
+- 💼 LinkedIn: /in/dishamazumder
+
+
+---
+**Learning daily 🚀 Open to feedback!**
 <!--
 **itsdishayk/itsdishayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
