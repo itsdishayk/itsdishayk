@@ -22,7 +22,7 @@ Hello! I'm a BCA student from Assam, India, excited to dive into **web developme
 - Personal Portfolio (WIP)
 
 ## 📊 Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsdishayk)](https://github.com/itsdishayk)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=itsdishayk)](https://github.com/itsdishayk)
 
 ## 📫 Contact
 -  X Twitter X: https://x.com/eyyitsdisha
