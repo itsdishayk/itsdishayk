@@ -26,7 +26,7 @@ Hello! I'm a BCA student from Assam, India, excited to dive into **web developme
 
 ## 📫 Contact
 -  X Twitter X: https://x.com/eyyitsdisha
-- 💼 LinkedIn: linkedin.com/in/disha-mazumder-790659359
+- 💼 LinkedIn: www.linkedin.com/in/disha-mazumder-790659359
 
 
 ---
