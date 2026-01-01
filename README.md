@@ -18,8 +18,8 @@ Hello! I'm a BCA student from Assam, India, excited to dive into **web developme
 ## 🛠️ Current Skills (Beginner Level)
 
 ## 📂 Projects
-- **Calculator** - First C program [WIP]
-- Personal Portfolio (WIP)
+- **Calculator** - First C program [https://github.com/itsdishayk/Calculator-c]
+- **Personal Portfolio** [https://github.com/itsdishayk/itsdishayk.github.io]
 
 ## 📊 Stats
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=itsdishayk)](https://github.com/itsdishayk)
