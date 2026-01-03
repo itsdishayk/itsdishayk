@@ -5,7 +5,7 @@
 </div>
 
 ## 🌱 About Me
-Hello! I'm a BCA student from Assam, India, excited to dive into **web development** and **UI/UX design**. Starting my journey with C programming, HTML/CSS, and Figma. 
+Hello! I'm a BCA student from Assam, India, excited to dive into **software/web development** and **UI/UX design**. Starting my journey with C programming, HTML/CSS, and Figma. 
 
 **What I'm learning right now:**
 - C basics for programming foundation
