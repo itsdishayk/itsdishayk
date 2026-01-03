@@ -1,7 +1,7 @@
 # Hi, I'm Disha Mazumder! 👋
 
 <div align="center">
-  BCA Student | Aspiring Web Developer & UI/UX Designer
+  BCA Student | Aspiring Full-Stack Designer
 </div>
 
 ## 🌱 About Me
