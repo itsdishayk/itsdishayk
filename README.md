@@ -19,6 +19,7 @@ Hello! I'm a BCA student from Assam, India, excited to dive into **software/web 
 
 ## 📂 Projects
 - **Calculator** - First C program [https://github.com/itsdishayk/Calculator-c]
+- **SimplyDiary** [https://github.com/itsdishayk/simplydiary.c]
 - **Tic Tac Toe Game** [https://github.com/itsdishayk/tictactoegame.c]
 - **Personal Portfolio** [https://github.com/itsdishayk/itsdishayk.github.io]
 
