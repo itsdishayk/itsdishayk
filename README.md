@@ -27,7 +27,7 @@ Hello! I'm a BCA student from Assam, India, excited to dive into **software/web 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=itsdishayk)](https://github.com/itsdishayk)
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/disha-mazumder-790659359)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/disha-mazumder-790659359)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/eyyitsdisha)
 
 
